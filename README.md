@@ -1,7 +1,7 @@
 p2p-loan-dapp
 ==================
-
-This [React] app was initialized with [create-near-app]
+example usecase for demo purpose.
+This smartcontract is used for lending NEAR P2P with a commitment to pay on time. The borrower deposit an amount of NEAR for commitment, If the borrower doesn’t pay back on time (deadline - the lender set), he will loose his deposited money.
 
 
 Quick Start
