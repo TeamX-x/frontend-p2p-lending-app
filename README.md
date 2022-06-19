@@ -1,4 +1,4 @@
-p2p-loan-dapp
+p2p-lending-dapp
 ==================
 example usecase for demo purpose.
 This smartcontract is used for lending NEAR P2P with a commitment to pay on time. The borrower deposit an amount of NEAR for commitment, If the borrower doesn’t pay back on time (deadline - the lender set), he will loose his deposited money.
